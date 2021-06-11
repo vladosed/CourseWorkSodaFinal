@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8D5253E0-6B8E-4002-9C88-4081C9F2ACC8}|Default">
+  <MonoDevelop.Ide.ItemProperties.CourseWorkSoda PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseWorkSoda/TrainModel.cs">
+    <Files>
+      <File FileName="CourseWorkSoda/Program.cs" Line="104" Column="1" />
+      <File FileName="CourseWorkSoda/TrainModel.cs" Line="14" Column="102" />
+      <File FileName="CourseWorkSoda/Carriage.cs" />
+      <File FileName="CourseWorkSoda/PlaceInTrain.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseWorkSoda" expanded="True">
+            <Node name="CourseWorkSoda" expanded="True">
+              <Node name="TrainModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

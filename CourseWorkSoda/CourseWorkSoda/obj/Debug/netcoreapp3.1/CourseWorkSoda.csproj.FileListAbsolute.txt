@@ -1,0 +1,12 @@
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/obj/Debug/netcoreapp3.1/CourseWorkSoda.csprojAssemblyReference.cache
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/obj/Debug/netcoreapp3.1/CourseWorkSoda.AssemblyInfoInputs.cache
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/obj/Debug/netcoreapp3.1/CourseWorkSoda.AssemblyInfo.cs
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/obj/Debug/netcoreapp3.1/CourseWorkSoda.csproj.CoreCompileInputs.cache
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/bin/Debug/netcoreapp3.1/CourseWorkSoda.deps.json
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/bin/Debug/netcoreapp3.1/CourseWorkSoda.runtimeconfig.json
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/bin/Debug/netcoreapp3.1/CourseWorkSoda.runtimeconfig.dev.json
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/bin/Debug/netcoreapp3.1/CourseWorkSoda.dll
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/bin/Debug/netcoreapp3.1/CourseWorkSoda.pdb
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/obj/Debug/netcoreapp3.1/CourseWorkSoda.dll
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/obj/Debug/netcoreapp3.1/CourseWorkSoda.pdb
+/Users/vladiko/Projects/CourseWorkSoda/CourseWorkSoda/obj/Debug/netcoreapp3.1/CourseWorkSoda.genruntimeconfig.cache
